@@ -1,1 +1,1 @@
-# FutureFuel-GPT-ResearchApp
+#FutureFuel-ResearchApp
